@@ -1,17 +1,26 @@
 
-public class JavaLogger {
+public class JavaLogger extends JLog {
 
 	JavaLogger(){
 		
 	}
 	
-	private void PrepareRecord() {
+	private void createLog() {
 		
 	}
+
+	private void SaveLog() {
+		
 	
-	public void SaveLog() {
-		// Guarda en un archivo el log
-		PrepareRecord();
-	}
+	} // SaveLog
+	
+	public void addNewStep() {
+		
+	} // addNewStep
+	
+	public void restartStep() {
+		
+	} // restartStep
+	
 
 }
