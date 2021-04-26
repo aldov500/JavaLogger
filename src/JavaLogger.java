@@ -5,14 +5,6 @@ public class JavaLogger extends JLog {
 		
 	}
 	
-	private void createLog() {
-		
-	}
-
-	private void SaveLog() {
-		
-	
-	} // SaveLog
 	
 	public void addNewStep() {
 		
